@@ -9,3 +9,6 @@ Learning how to do pull requests for Hacktoberfest!
 <em>Step 5</em>: Make the changes without affecting the master. <br/>
 <em>Step 6</em>: Commit and push changes!
 <em>Go back to github.com and click on "Compare and pull request" and you are done!</em>
+
+# Link
+Check your progress on [Hacktoberfest official site](https://hacktoberfest.digitalocean.com/stats/$USER)
